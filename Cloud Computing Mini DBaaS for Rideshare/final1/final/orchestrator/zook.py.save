@@ -1,8 +1,0 @@
-import logging
-
-from kazoo.client import KazooClient
-from kazoo.client import KazooState
-
-logging.basicConfig()\\zk = KazooClient(hosts='zoo1:2181')
-zk.start()
-print("in")
