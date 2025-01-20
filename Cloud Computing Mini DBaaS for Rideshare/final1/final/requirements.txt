@@ -1,0 +1,7 @@
+ipython
+pika
+kazoo
+math
+threading
+time
+docker
